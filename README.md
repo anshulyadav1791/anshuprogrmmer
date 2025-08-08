@@ -1,3 +1,7 @@
+dnka
+
+sdkee
+b
 lsdj
 djd
 dswwejfa
@@ -12,6 +16,8 @@ oihy'oih'oih'oih
 the react learing 
 today dida kdtoa
 kt yaft 
+
+python
 
 
 si  its dis kdjlkd
