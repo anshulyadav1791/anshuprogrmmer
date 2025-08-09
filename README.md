@@ -11,7 +11,9 @@ This is my frist repository.
 i
 jj
 so, My nest plan
-;
+;j'ajda
+dva
+vas'
 oihy'oih'oih'oih
 the react learing 
 today dida kdtoa
