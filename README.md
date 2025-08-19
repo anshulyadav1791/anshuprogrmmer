@@ -1,67 +1,40 @@
-nadnfadfnaw
-dfn;kasnfdksnfasdf;dfn;kadfa
-dsf;lvneaVneaoihef[owahegfoaehgoeahgj'spgj'g
-sdhfosh
-hfdvhisofhg
-statia
-wang
-fjba
-v;d
-klshfda
-dnkalmm's
+# 👋 Hi, I'm Anshul Yadav  
 
+🌐 **Frontend Developer | UI/UX Enthusiast**  
+✨ I craft responsive, accessible, and high-performance web applications.  
 
-sdkee
-bODJFi'g'oih
-'
-ja'jrg
-'aejg
-aj
-AEW
-FADF';knhpbnl
-lsdj
-djd
-dswwejfadjvWJ
-ldfie# anshuprogrmmer
-This is my frist repository.
-<br>[ofjuOJBJAGJ
-ADF'AF
+---
 
-reojg
-ea
-afjg]a
-i
-jj
-so, My nest plan
-;j'ajda
-dva
-vas'
-oihy'oih'oih'oih tstoqef
-sldkfaldkf
-adfaldsfa
-<html>
-  
-the react learing 
-today dida kdtoa
-kt yaft 
+## 🛠️ Tech Stack
+- **Languages:** HTML, CSS, JavaScript  
+- **Frameworks & Libraries:** React, Tailwind CSS  
+- **Tools & Platforms:** Git, GitHub, VS Code, Figma (UI Design)  
+- **Other Skills:** Responsive Design, Cross-Browser Compatibility  
 
-python
-jo li
+---
 
+## 🚀 Current Focus
+- Building modern **React + Tailwind** projects  
+- Improving **UI/UX** skills with real-world designs  
+- Exploring **Next.js & TypeScript** for scalable frontend apps  
 
-si  its dis kdjlkd
+---
 
-ndlkndlknd
-kjdnkndalkda
-adadjoie
-long asgka
-skiee
-d
-dlldl
-dlldldld
-dld
+## 🌟 Featured Projects
+- 🎨 **Portfolio Website** → Personal responsive portfolio built with React + Tailwind  
+- 📱 **React Calculator App** → Lightweight calculator with modern UI  
+- 💬 **Chat App UI** → Real-time chat frontend with clean design  
 
-thw sitla
-konon
+---
 
-nlknlknlo
+## 📈 GitHub Stats
+![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect With Me
+- 🌐 Portfolio: *Coming Soon*  
+- 💼 LinkedIn: [Your LinkedIn Link]  
+- 📧 Email: yourname@example.com  
