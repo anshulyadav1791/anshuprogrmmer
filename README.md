@@ -30,7 +30,6 @@
             <div class="best">Best for learning coding in Shikohabad</div>
             <div class="join"><button onclick="openPopup()">Loge IN</button></div>
         </div>
-
         <div class="card">
             <div class="image-box">
                 <img src="C:\Users\MSK-Institute\Pictures\Screenshots\Screenshot 2025-06-28 145522.png" alt="">
@@ -43,27 +42,19 @@
             </div>
         </div>
     </div>
-
-
-    <!-- ai code -->
-
-    <!-- Popup -->
-    <div class="popup-overlay" id="popup">
+        <div class="popup-overlay" id="popup">
         <div class="popup-form">
             <div class="close-btn" onclick="closePopup()">✖</div>
-
             <div class="tab-switch">
                 <button id="loginTab" class="active" onclick="switchTab('login')">Login</button>
                 <button id="registerTab" onclick="switchTab('register')">Register</button>
             </div>
-
             <form id="loginForm">
                 <h2>Login</h2>
                 <input type="email" placeholder="Email" required>
                 <input type="password" placeholder="Password" required>
                 <button type="submit">Login</button>
             </form>
-
             <form id="registerForm" style="display:none;">
                 <h2>Register</h2>
                 <input type="text" placeholder="Name" required>
@@ -73,7 +64,6 @@
             </form>
         </div>
     </div>
-
 </div>
 
 <script>
@@ -110,11 +100,6 @@
     popup.addEventListener("click", (e) => {
         if (e.target === popup) closePopup();
     });
-</script>
-</body>
-
-</html>
-
 
 </body>
 <script src="msk.js"></script>
