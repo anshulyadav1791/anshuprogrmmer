@@ -15,8 +15,7 @@ body {
     background: url('your-background.jpg') no-repeat center center/cover;
 }
 
-
-.nav {
+m 'j 'n'n.nav {
     height: 70px;
     width: 100%;
 
